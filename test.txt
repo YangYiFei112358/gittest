@@ -1,6 +1,6 @@
 This is a txt for testing!
 Welcome to github!
-I add something to try doing version back function.
+I delete something to try doing version back function.
 This was function.testing... fake version
 I want to add international for no reason.
 This is controlling updating.updating 2nd
