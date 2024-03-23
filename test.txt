@@ -3,6 +3,6 @@
 This is a text to do test!
 I add something to try doing version back function.
 This is the correct version.
-I want to add international for no reason.
-This is controlling updating.updating 2nd
+I want to add international for some reason.
+This is controlling updating.
 test conflict again!
