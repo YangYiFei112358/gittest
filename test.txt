@@ -1,4 +1,4 @@
-This is a txt for testing!
+This is a text to do test!
 Welcome to github!
 I add something to try doing version back function.
 This is the correct version.
