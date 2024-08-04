@@ -8,3 +8,5 @@ This is controlling updating, maybe i dont know.
 test conflict again!
 
 I not only want to try somgthing about merge and rebase, but also want test it.
+
+I want to try somgthing about merge and rebase, again.
