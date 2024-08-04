@@ -3,8 +3,8 @@
 This is a txt for testing!
 I add something to try doing version back function.
 This is the correct version.
-I want to add international for some reason.
-This is controlling updating.
+I want to just test C3 branch for some reason.
+This is controlling updating, maybe i dont know.
 test conflict again!
 
 I not only want to try somgthing about merge and rebase, but also want test it.
